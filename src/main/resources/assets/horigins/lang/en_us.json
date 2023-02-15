@@ -1,0 +1,25 @@
+{
+  "origin.horigins.man.name": "Man",
+  "origin.horigins.dwarf.name": "Dwarf",
+  "origin.horigins.halfling.name": "Halfling",
+  "origin.horigins.giant.name": "Giant",
+
+
+  "origin.horigins.man.description": "An average man, nothing special.",
+  "origin.horigins.dwarf.description": "Hardy and short, these are excellent miners, but not quite as heartful as men.",
+  "origin.horigins.halfling.description": "Short and quick, these are natural acrobats and are great at sneaking around, but are quite frail. ",
+  "origin.horigins.giant.description": "Large and sturdy, these are a model of strength, but the very same strength keeps them grounded.",
+
+  "power.horigins.attack_damage_giant.name": "+1.5 Attack Damage",
+  "power.horigins.hearts_extra_two.name": "+4 Max Health",
+  "power.horigins.movement_debuff_giant.name": "-0.2 Attack & -0.1 Movement Speed",
+
+  "power.horigins.reach_giant.name": "Far Reaching",
+  "power.horigins.double_jump_negation.name": "Grounded",
+
+  "power.horigins.attack_damage_giant.description": "As a giant, your base strength is increased by 1.5.",
+  "power.horigins.double_jump_negation.description": "Due to your overall size, you're unable to learn how to jump while mid-air.",
+  "power.horigins.hearts_extra_two.description": "As a giant, two additional hearts are added to your base health.",
+  "power.horigins.movement_debuff_giant.description": "Despite your strength, you tend to move and swing your weapons slowly.",
+  "power.horigins.reach_giant.description": "As a giant, you gain 1.5 blocks to your reach distance overall."
+}

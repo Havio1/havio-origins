@@ -1,0 +1,17 @@
+{
+  "replace": true,
+  "order": 0,
+  "enabled": true,
+  "origins": [
+    "horigins:man",
+    "horigins:dwarf",
+    "horigins:giant",
+    "horigins:halfling"
+  ],
+  "allow_random": true,
+  "exclude_random": [
+    "horigins:man"
+  ],
+  "allow_random_unchoosable": false,
+  "hidden": false
+}

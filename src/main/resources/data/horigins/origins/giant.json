@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"horigins:hearts_extra_two",
+		"horigins:reach_giant",
+		"horigins:attack_damage_giant",
+		"horigins:movement_debuff_giant",
+		"horigins:double_jump_negation"
+	],
+	"icon": {
+		"item": "minecraft:player_head"
+	},
+	"order": 2,
+	"impact": 2
+}

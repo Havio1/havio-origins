@@ -1,0 +1,16 @@
+{
+  "type": "origins:attribute",
+  "modifiers": [
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "value": -0.2,
+      "operation": "addition"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": -0.0125,
+      "operation": "addition"
+    }
+  ]
+}
+
