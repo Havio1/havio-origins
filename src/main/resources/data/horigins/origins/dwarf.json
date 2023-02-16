@@ -1,6 +1,6 @@
 {
 	"powers": [
-
+		"horigins:scale_dwarf"
 	],
 	"icon": {
 		"item": "minecraft:player_head"

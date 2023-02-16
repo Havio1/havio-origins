@@ -1,3 +1,22 @@
 {
-
+  "type": "origins:action_on_callback",
+  "entity_action_chosen": {
+    "type": "origins:and",
+    "actions": [
+      {"type": "origins:execute_command", "command": "scale multiply pehkui:eye_height .9", "permission_level": 4},
+      {"type": "origins:execute_command", "command": "scale multiply pehkui:third_person 1", "permission_level": 4},
+      {"type": "origins:execute_command", "command": "scale multiply pehkui:model_height 0.9", "permission_level": 4},
+      {"type": "origins:execute_command", "command": "scale multiply pehkui:model_width 0.85", "permission_level": 4},
+      {"type": "origins:execute_command", "command": "scale multiply pehkui:hitbox_height 0.9", "permission_level": 4},
+      {"type": "origins:execute_command", "command": "scale multiply pehkui:hitbox_width 0.85", "permission_level": 4},
+      {"type": "origins:execute_command", "command": "scale multiply pehkui:projectiles .9", "permission_level": 4},
+      {"type": "origins:execute_command", "command": "scale multiply pehkui:visibility .9", "permission_level": 4}
+    ]
+  },
+  "entity_action_removed": {
+    "type": "origins:execute_command",
+    "command": "scale reset",
+    "permission_level": 4
+  },
+  "hidden": true
 }

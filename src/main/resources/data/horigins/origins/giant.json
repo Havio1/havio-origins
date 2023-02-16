@@ -4,7 +4,8 @@
 		"horigins:reach_giant",
 		"horigins:attack_damage_giant",
 		"horigins:movement_debuff_giant",
-		"horigins:double_jump_negation"
+		"horigins:double_jump_negation",
+		"horigins:scale_giant"
 	],
 	"icon": {
 		"item": "minecraft:player_head"
